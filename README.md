@@ -9,8 +9,3 @@
   - GitHub: [github.com/HeenaAnjumShaik](https://github.com/HeenaAnjumShaik)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love solving problems, be it coding challenges or real-world issues, and I’m passionate about lifelong learning!
-
-<!---
-HeenaAnjumShaik/HeenaAnjumShaik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
